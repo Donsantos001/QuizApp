@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="Questions">
+        <item>What is the name of the man who created this app</item>
+    </string-array>
+</resources>
