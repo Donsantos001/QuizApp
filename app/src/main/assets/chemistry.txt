@@ -1,0 +1,300 @@
+Solutions are classified into aqueous and non-aqueous solutions, based on______.
+Nature of solute particles
+Nature of solvent
+Size of the particles
+Thickness of solvent
+b
+The solvent used to prepare aqueous solutions is________.
+Water
+benzene
+kerosene
+petrol
+a
+A true solution does not show Tyndall effect, because of the______.
+Nature of solvent
+Amount of solute
+Size of the particles
+Nature of solute
+c
+Tyndall effect is exhibited by________.
+True solutions
+Suspensions
+Colloidal solutions
+Crystals
+c
+Tyndall effect is producted by________.
+True solutions of light
+Scattering of light
+Refraction of light
+Movement of particles
+b
+The particle size in a colloidal solution is _______.
+1 Å – 10 Å
+10 Å - 2000 Å
+More than 2000 Å
+Less than 1 Å
+b
+The particle size in a suspension is_______.
+1 Å – 10 Å
+10 Å - 2000 Å
+More than 2000 Å
+Less than 1 Å
+c
+A solution which has more of solute, at a given temperature than that of saturated solution is called a________.
+Super saturated solution
+Unsaturated solution
+Colloidal solution
+suspension
+a
+Chalk powder in water is an example of_________.
+Saturated solution
+Unsaturated solution
+suspension
+Colloidal solution
+c
+The particle size of the solute in true solution is_______.
+1 Å – 10 Å
+10 Å - 100 Å
+100 Å - 1000 Å
+More than1000 Å
+a
+Milk is a _______.
+True solution
+Colloidal solution
+suspension
+saturated solution
+b
+Nitrogen in soil is an example for_______.
+True solution
+saturated
+super saturated
+unsaturated
+b
+Fog is a solution of ________.
+Liquid in gas
+Gas in liquid
+Solid in gas
+Gas in gas
+a
+Soda water is a solution of ________.
+Liquid in gas
+Gas in liquid
+Solid in gas
+Gas in gas
+b
+Blood is an example of ________.
+True solution
+Colloidal solution
+Saturated solution
+Suspension
+b
+The dispersed phase in a colloidal solution is_________.
+Solute
+Solution
+Suspension
+Mixture
+a
+Sugar and Salt solutions are________.
+Heterogeneous mixtures
+True solutions
+Colloidal solutions
+Suspensions
+b
+Brownian movement explains the ______ property of colloidal solutions.
+optical
+electrical
+kinetic
+mechanical
+c
+In aqueous solutions, the solvent used is_______.
+benzene
+ether
+alcohol
+water
+d
+The solution in which saturation is not achieved is called _______.
+Super saturated
+Unsaturated
+Saturated
+Suspended
+b
+Cheese is a colloidal solution of ________.
+Solid in solid
+Liquid in solid
+Solid in liquid
+Gas in solid
+b
+Cork is a colloid of __________.
+Solid in solid
+Liquid in solid
+Solid in liquid
+Gas in solid
+d
+Smoke is a colloid of ______.
+Solid in solid
+Liquid in solid
+Solid in liquid
+Solid in Gas
+d
+The saturation temperature for 20.7g of CuSO4 soluble in water is_______.
+100C
+1000C
+200C
+300C
+c
+The solubility level of an aqueous solution of NaCl at 250C is ________.
+20g
+36g
+95g
+8g
+b
+The increase in the solubility of Sodium halides, in water at 250C is________/
+NaCl > NaBr > Nal
+NaBr > Nal > NaCl
+Nal > NaBr > NaCl
+NaCl = NaBr > Nal
+c
+Solubility of CaO in water is a ________.
+Chermic
+endothermic
+exothermic
+hypothermic
+c
+According to Henry’s Law, in gases, an increase in pressure increase______.
+Solubility
+saturation
+volume
+viscosity
+a
+Deep sea divers use mixture of ________.
+Helium - Oxygen
+Nitrogen - Oxygen
+Hydrogen - Nitrogen
+Helium - Nitrogen
+a
+The continuous random motion of colloidal particles is called ________.
+Brownian movement
+Zig zag movement
+Continuous movement
+Tyndall effect
+a
+On increasing the temperature, the solubility of the solute in the solvent________.
+Increase
+Decrease
+Change
+Does not change
+a
+Which law relates solubility of solvents with pressure?
+Hess’ law
+Henry’s law
+Charles’ Law
+Boyle’s law
+b
+When sunlight passes through the window of your house, the dust particles scatter the light making the path of the light visible. This phenomenon is called as________.
+Brownian motion
+Tyndall effect
+Raman effect
+Uniform motion
+b
+The Greek term ‘atomos’ means ___________.
+divisible
+indivisible
+macro molecule
+soft sphere
+b
+Isotopes are the atoms of same element, with same atomic number. But with different __________.
+Atomic number
+Mass number
+Number of electrons
+Chemical nature
+b
+6C12 and 6C14 are _________.
+Isotopes
+Isobars
+Isomers
+Molecules
+a
+Atoms of different elements possessing in the same atomic mass are called _______.
+Isotopes
+Isobars
+Isomers
+Molecules
+c
+Atoms of different elements with same number of neutrons.
+Isotopes
+Isomers
+Isobars
+Isotones
+d
+Atomicity of oxygen in ozone molecule is____________.
+1
+2
+3
+4
+c
+Atomicity of primary gases is__________.
+1
+2
+3
+4
+b
+In the Beginning of the 20th century, Matter Wave concept was introduced by________.
+Broglie
+Avogadro
+Heisenberg
+Einstein
+a
+The Principle of Uncertainty was introduced by__________.
+Broglie
+Avogadro
+Heisenberg
+Einstein
+c
+18Ar40 and 20Ca40 are considered as___________.
+Isotopes
+Isomers
+Isobars
+Isotones
+a
+The compound which does not show simple ratio of atoms, is _________.
+Benzene
+Acetylene
+Hydrogen
+Sucrose
+d
+Avogadro’s hypothesis relates volume of gases and _________.
+mass
+temperature
+pressure
+number of molecules
+d
+Atomicity of an element is ________.
+Valency of an element
+Atomic mass
+Number of atoms in one molecule of an element
+Isotope of an element
+c
+Atomicity is given by__________.
+Mass/molecular mass
+Mass of the element
+Molecular mass X atomic mass
+Molecular mass / atomic mass
+d
+The atoms of 6C13 and 7N14 are considered as __________.
+Isotopes
+Isomers
+Isobars
+Isotones
+d
+Isotones are the atoms of different elements having__________.
+Same mass number
+Same atomic number
+Same number of neutrons
+Same number of electrons
+c
+Atomicity of Phosphorous is _________.
+2
+3
+4
+5
+c

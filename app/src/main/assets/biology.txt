@@ -1,0 +1,300 @@
+Mendel observed 7 pairs of contrasting characters in Pisum sativum, One of the following is not a part of that, Find out.
+Tall and Dwart
+Yellow and Green seed colour
+Terminal and Axial flower
+Smooth and Rough stem
+d
+Primitive men evolved in _________.
+Africa
+America
+Australia
+India
+a
+Which of the following is inheritable?
+An altered gene in sperm
+An altered gene in testes
+An altered gene in Zygote
+An altered gene in udder cell
+c
+Theory of natural selection was proposed by_______.
+Charles Darwin
+Hugo de Vries
+Gregor Johann Mendel
+Jean Baptiste Lamarck
+a
+Somatic gene therapy_______.
+affects sperm
+affects egg
+affects progeny
+affects body cell
+d
+The paternal and maternal genetic material which influences the traits is_____.
+RNA
+m-RNA
+DNA
+t-RNA
+c
+The first ever scientific experimental study on heredity was worked out between the years ________.
+1801 - 1807
+1812 - 1842
+1838 - 1871
+1822 - 1884
+d
+The first experiment of Mendel considering the inheritance of a single trait is called________.
+Hybrid cross
+Monohybrid cross
+Polyhybrid cross
+Dihybrid cross
+b
+_______ is called as ‘Father of Genetics’.
+Charles Darwin
+Hugo de Vries
+Gregor Johann Mendel
+Jean Baptiste Lamarck
+c
+The men like Hominids who walked into Eastern Africa were measured to be______.
+Taller than four feet
+Not taller than four feet
+Three feet
+Measured in Inches
+b
+The meat eaters who existed 1.5 million years ago were called ______.
+Homo habilis
+Hominids
+Homo erectus
+Homo sapiens
+c
+The term vaccine was coined by______.
+Dr. Ian Wilmut
+Edward Jenner
+Charles Darwin
+Alexander Flemming
+b
+Dolly was developed in the year _______.
+August 1982
+July 1996
+July 1994
+September 1974
+b
+The nucleus of udder cell which was used to develop Dolly was taken from_______.
+Six year old Finn Dorset white sheep
+Seven year old white sheep
+Six year old goat
+Five year old cow
+a
+Vaccines are substances that confer immunity against________.
+All kind of diseases
+Communicable diseases
+Specific diseases
+Non communicable diseases
+c
+Steroid drugs like prednisolone is produced from______.
+Rhizopus
+Penicillium
+Aagaricus
+Bacteria
+a
+Antibiotics are chemical substances derived from microbes like_____.
+Fungi, Algae
+Fungi, Bacteria
+Fungi, Virus
+Bacteria, Algae
+b
+Bio-technologically synthesized vitamin B12 is used to cure________.
+Anaemia
+Tuberculosis
+Pernicious anaemia
+Cancer
+b
+Biological computers will be developed using_______.
+Bio sensor
+Gene
+Bio-Chips
+Enzymes
+c
+Gene therapy is the means to treat or even cure genetic and acquired diseases like _____.
+Cancer
+Smallpox
+Swine - flu
+Common cold
+a
+In Germ line gene therapy, __________.
+Egg and sperm of the parents are changed
+Sperm of the parent are changed
+Egg of the parent are changed
+Egg and sperm of the parents are not changed
+a
+Bio-chips will be useful in ___________.
+Defence, Medicine
+Theatre, Medicine
+Defence, Air Force
+Navy, Medicine
+a
+________ are developed by employing techniques of bio-technology.
+Micro chips
+Macro chips
+Auto chips
+Glass chips
+a
+Insulin dependent diabetes is caused by the degeneration of beta cells due to a _________.
+gene
+alleles
+defective gene
+gene set
+c
+Gene therapy is used to treat defects in__________.
+Somatic cell
+Organ
+Tissue
+Reproductive Cell
+a
+The converts biological signal into an electrical signal.
+Scanner
+sensor
+chips
+traits
+b
+Biological signals are converted into electrical signal by_________.
+sensor
+scanner
+allele
+gene
+a
+Bio-sensor is used in__________.
+Medicines and industry
+Industry and technology
+Medicine and aircraft
+Industry and aircraft
+a
+Bio-sensor is a device consisting of immobilized layer of biological material such as_______.
+Enzyme, antibody, hormone, nucleic acids
+Enzyme, gene, antigen, hormone
+Nucleic acid, formic acid, acetic acid, tartaric acid
+Hormone, nucleic acid, enzyme, gene.
+a
+Bio-chemically significant enzymes are derived from______.
+microbes
+macrobes
+insulin
+protein
+a
+Amylase is derived from __________ of bacteria.
+Proteins
+Insulin
+Amyloproteins
+Hormones
+c
+The theory of Use and Disuse was proposed by___________.
+Lamarck
+Mendel
+Darwin
+Jenner
+a
+Odour, freshness and taste of food can be measured by using ________.
+Bio-Chips
+Bio-sensor
+Biotic signals
+Bio-technology
+b
+Production of any toxin in the body due to infection can be detected by____________.
+Bio-sensor
+Bio-signals
+Bio-technology
+Bio-chips
+a
+_____________ is so vast and has great scope for different fields like agriculture, medicine, food industry etc.
+Microbiology
+Embryology
+Bio-technology
+Cytology
+c
+_____________ are suspensions of killed or live germs which is employed to induce the production of antibodies and bring forth immunity.
+Vaccines
+Medicines
+Antibiotics
+Antigens
+a
+_____________ are employed to kill the infectious germs and cure a disease.
+Antigens
+Antibiotics
+Vaccines
+Vitamins
+b
+The somatic stem cells are derived from source such as_________.
+Bone marrow, embryos, amniotic fluid and umbilical cord
+Embryos, bone, knee, foetus
+Bone marrow, fluid, umbilical cord, joint cells
+Embryo, foetus, umbilical cord, fluid.
+a
+_________ vitamin is synthesized bio-technologically.
+B12
+B6
+B2
+B
+a
+_________ cell culture is similar to that of embryonic stem culture.
+Somatic stem
+Stem
+Gene
+Gametic
+a
+Fertilization made artificially in the laboratory is called ___________.
+Invitro fertilization
+Cloning
+External fertilization
+Blastula
+a
+The Embryonic stem cells can be derived from _______ which is developed by “invitro fertilization”.
+late embryo
+early embryo
+embryo
+zygote
+b
+__________are the most unspecialized mass of cells.
+Stem cells
+Root cells
+Hair cells
+Cells
+a
+The ________ clones are developed by nuclear transfer into the host cell.
+Artificial
+Natural
+Identical
+Dissimilar
+a
+The induced clones are developed by ________ into the host cell.
+Nuclear transfer
+Gene transfer
+Cell transfer
+Antigen transfer
+a
+________ clones include identical twins.
+Natural
+Artificial
+Induced
+Stem
+a
+The word _________ refers only to living species.
+Clone
+Gene
+Allele
+Vaccine
+a
+Monoclonal anti-bodies are the anti-bodies produced by_______ cells.
+cloned
+fertilized
+stem
+embryo
+a
+___________ anti-bodies are now used for treatment of cancer.
+Monoclonal
+Diclonal
+Natural
+Artificial
+a
+____________ are a type of derived lipids.
+Steroids
+Vaccines
+Vitamins
+Antibodies
+a

@@ -1,7 +1,43 @@
 <resources>
     <string name="app_name">My Application</string>
 
-    <string-array name="Questions">
-        <item>What is the name of the man who created this app</item>
+    <string-array name="subjects">
+        <item>Random</item>
+        <item>Chemistry</item>
+        <item>Physics</item>
+        <item>Biology</item>
+    </string-array>
+
+    <string-array name="minutes">
+        <item>Custom</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="seconds">
+        <item>Custom</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+
+    <string-array name="qnumbers">
+        <item>Custom</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
     </string-array>
 </resources>

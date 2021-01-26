@@ -1,90 +1,133 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#EBEEF4">
+    tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/questionView"
+        android:id="@+id/welcomeTV"
         android:layout_width="wrap_content"
-        android:layout_height="107dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginStart="36dp"
-        android:layout_marginLeft="36dp"
-        android:layout_marginTop="59dp"
-        android:layout_marginEnd="36dp"
-        android:layout_marginRight="36dp"
-        android:text="What is the name of this new question?"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:text="Welcome"
         android:textColor="#000000"
-        android:textSize="24sp" />
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
-    <RadioGroup
-        android:id="@+id/myRadios"
+    <TextView
+        android:id="@+id/instructionTV"
         android:layout_width="wrap_content"
-        android:layout_height="202dp"
-        android:layout_below="@+id/questionView"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginStart="41dp"
-        android:layout_marginLeft="41dp"
-        android:layout_marginTop="36dp"
-        android:layout_marginEnd="39dp"
-        android:layout_marginRight="39dp">
-
-        <RadioButton
-            android:id="@+id/optionA"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="optionA"
-            android:textColor="#000000"
-            android:textSize="20sp" />
-
-        <RadioButton
-            android:id="@+id/optionB"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="optionB"
-            android:textColor="#000000"
-            android:textSize="20sp" />
-
-        <RadioButton
-            android:id="@+id/optionC"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="optionC"
-            android:textColor="#000000"
-            android:textSize="20sp" />
-
-        <RadioButton
-            android:id="@+id/optionD"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="optionD"
-            android:textColor="#000000"
-            android:textSize="20sp" />
-    </RadioGroup>
+        android:layout_height="46dp"
+        android:layout_marginTop="20dp"
+        android:text="hgdhgfhg"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/welcomeTV" />
 
     <Button
-        android:id="@+id/check"
-        android:layout_width="175dp"
-        android:layout_height="77dp"
-        android:layout_below="@+id/myRadios"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginStart="116dp"
-        android:layout_marginLeft="116dp"
-        android:layout_marginTop="44dp"
-        android:layout_marginEnd="119dp"
-        android:layout_marginRight="119dp"
-        android:text="NEXT"
-        android:textSize="20sp" />
+        android:id="@+id/starterBtn"
+        android:layout_width="129dp"
+        android:layout_height="63dp"
+        android:layout_marginBottom="100dp"
+        android:text="Button"
+        app:cornerRadius="28sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
 
-</RelativeLayout>
+    <Spinner
+        android:id="@+id/minSP"
+        android:layout_width="wrap_content"
+        android:layout_height="43dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/instructionTV" />
+
+    <Spinner
+        android:id="@+id/secSP"
+        android:layout_width="wrap_content"
+        android:layout_height="43dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintStart_toEndOf="@+id/minTV"
+        app:layout_constraintTop_toBottomOf="@+id/instructionTV" />
+
+    <Spinner
+        android:id="@+id/subjectSP"
+        android:layout_width="wrap_content"
+        android:layout_height="47dp"
+        android:layout_marginTop="92dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.116"
+        app:layout_constraintStart_toEndOf="@+id/subjectTV"
+        app:layout_constraintTop_toBottomOf="@+id/instructionTV" />
+
+    <TextView
+        android:id="@+id/minTV"
+        android:layout_width="61dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/minSP"
+        app:layout_constraintTop_toBottomOf="@+id/instructionTV" />
+
+    <TextView
+        android:id="@+id/secTV"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/secSP"
+        app:layout_constraintTop_toBottomOf="@+id/instructionTV" />
+
+    <TextView
+        android:id="@+id/subjectTV"
+        android:layout_width="133dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="104dp"
+        android:text="TextView"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/instructionTV" />
+
+    <TextView
+        android:id="@+id/qnoTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="180dp"
+        android:text="TextView"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/instructionTV" />
+
+    <Spinner
+        android:id="@+id/qnoSP"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:layout_marginTop="170dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginRight="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.038"
+        app:layout_constraintStart_toEndOf="@+id/qnoTV"
+        app:layout_constraintTop_toBottomOf="@+id/instructionTV" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

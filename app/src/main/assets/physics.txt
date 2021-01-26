@@ -1,0 +1,300 @@
+The Element of an electric heater is made of____?
+Nichrome
+Copper
+Aluminum
+None of these
+a
+When water is heated from 0o Celsius to 100o Celsius, the volume of water?
+Increase gradually
+Degrease gradually
+First increase, then decrease
+First decrease , then increase
+d
+One mega watt hour (MWH) is equal to ____?
+3.6 × 103 joule
+3.6 × 104 joule
+3.6 × 107 joule
+3.6 × 109 joule
+d
+At what temperature are the temperature on Celsius and Fahrenheit scales equal?
+273o Celsius
+- 273o Celsius
+– 40o Celsius
+40o Celsius
+c
+The Period of revolution round the sun is maximum by which among the following planets?
+Mercury
+Venus
+Earth
+Mars
+d
+Einstein got the Nobel prize for?
+Theory of Relativity
+Photo-electric effect
+Polarisation
+Radio activity
+b
+Galvanometer can be converted into a voltmeter by using ___
+Low resistance in series
+High resistance in series
+Low resistance in parallel
+High resistance in parallel
+b
+Gas law was given by
+Boyle
+Ostwald
+Arrhenius
+Faraday
+a
+Kilowatt – hour is a unit of __?
+Energy
+Power
+Electric charge
+Current
+b
+The ozone layer protects us from __?
+Ultra violet rays
+Radio waves
+Visual radiation
+Infrared radiation
+a
+What will be the temperature of the maximum if 100 gm ice at 0oC is put in 100 gm water at 80oC? (Latent heat of ice = 80 cal / gm)
+35oC
+45oC
+60oC
+0oC
+d
+Fire in the diesel engine is produces by which of the following?.
+Compression
+Spark plug
+Friction
+Self starter
+a
+With an increase in pressure the melting point of max will.
+Decrease
+Increase
+First increase and then decrease
+Remain Unaffected
+b
+Which among the following is the best conductor of electricity?
+Silver
+Copper
+Gold
+Lead
+a
+Which among the following order of decreasing wavelengths of electromagnetic waves is correct? I. Radio waves II. Infrared rays III. Visible Light IV. X-Rays
+II, I, IV, III
+I, III, II, IV
+I, II, III, IV
+IV, III, II, I
+c
+Ampere-hour is the unit of which among the following?
+Power
+Energy
+Intensity of current
+Amount of charge
+d
+Who discovered X-Rays?
+Madam Curie
+Einstein
+Roentgen
+J. J. Thomson
+c
+Which among the following are primary colors?
+Red, Green, Blue
+Blue, Yellow, Green
+Red, Magenta, Yellow
+Yellow, Violet, Blue
+a
+At what temperature will the density of water be maximum?
+0o C
+32o C
+- 4o C
+4o C
+d
+Persistence of vision is the principle behind?
+Camera
+spectroscope
+Cinema
+Periscope
+c
+Which metal is commonly used for making an electromagnet?
+Copper
+Iron
+Nickel
+Cobalt
+b
+Light from the laser is________?
+Monochromatic
+Composite
+Dispersed light
+Incoherent
+a
+Choke is used to_______?
+Reduce the current in AC circuit
+Reduce the current in DC circuit
+Convert AC to DC
+Convert DC to AC
+a
+In a standing wave the distance between a node and adjacent antinode is______.
+3λ / 2
+λ / 2
+λ / 4
+3λ / 4
+c
+A telescope and microscope differ in that______?
+Both are different instruments
+Telescope’s eyepiece with longer focal lengths that the oblective
+Telescope has objective of large focal length and eyepiece of smaller focal lengths
+None of these
+c
+The weight of a body is______?
+The same everywhere on the surface of the earth
+Maximum at the poles
+Maximum at the equator
+More on the hills than in the plains
+b
+At what temperature a body will not radiate any heat energy?
+0o C
+273o C
+100o C
+-273o C
+d
+Electromagnetic spectrum consists of the following radiationsI. X-rays II. Gamma rays III. Ultraviolet radiations IV. Infrared radiations Choose the correct order of code in the increasing order of their frequency:
+I, III, II, IV
+II, I, III,IV
+IV, III, I, II
+IV, II, III, I
+c
+Only one part of moon can be seen from earth because____.
+Only one part reflects light
+It does not rotate
+The period of rotation and revolution are equal
+None of these
+c
+Parsec is a unit of_______.
+Pressure
+Astronomical distance
+Time
+Energy
+b
+In which among the following is alternating current not used?
+Refrigeration
+Heat production
+Electroplating
+Radio detection
+c
+Blisters are formed more rapidly by the steam of boiling water in comparision to boiling water itself because ________.
+Temperature of the stream is higher
+Stream enters the body pores rapidly
+Stream is a gas and rapidly covers the body
+Stream has latent heat
+d
+An ice cube is floating on the surface of water: How will the water level be affected by melting of this ice cube?
+Water level will be raised
+Water level will go down
+Water level will remain the same
+Water level will first rise up then it will go down
+c
+What will be the effect on gravitational acceleration if the earth suddenly stops its rotation?
+It will reduce at the poles
+It will increase at the poles
+It will decrease at the equator
+It will increase at the equator
+b
+Ohmic conductor among the following is _____.
+Transistor
+Thermal value
+Electrolyte
+Constantum
+d
+One Kilo Calorie heat will be equal to_____.
+4.2 joule
+4.2 x 102 Joule
+4.2 x 103 Joule
+4.2 x 104 Joule
+c
+Ball pen works on the principle of ______.
+Viscosity
+Boyle’s Law
+Gravitational force
+Capillarity and surface tension
+d
+The apparatus used in submarines to give clear view of the objects on the surface of the ocean or ground is known as________.
+Periscope
+sectant
+stereoscope
+telescope
+a
+Growth of the baby in the uterus is found using______.
+X-rays
+Gamma rays
+Ultra sound
+Ultra Violet rays
+c
+The form of matter are________.
+3
+4
+5
+7
+a
+The centre of the Newton’s rings pattern is dark since_______.
+The light undergoes a phase change π
+The glass plate plano-convex lens
+The light undergoes a phase change 2 π
+The light undergoes a phase change π/2
+a
+If a red-green flag is seen in green light it appears to be of which of the following colour?
+Green
+Black
+Black - Green
+Red - Black
+c
+A moving electric charge produces__________.
+Only electric field
+Only Magnetic field
+Both electric and magnetic field
+Either electric or a magnetic field
+c
+Which among the following order of decreasing wavelengths of electromagnetic waves are correct? I. Radio waves II. Infrared rays III. Visible light IV. X-rays Choose the answer from the following code:
+II, I, IV, III
+I, III, II, IV
+I, II, III, IV
+IV, III, II, I
+c
+Which among the following is the surface to surface missile that is made in India?
+Dharti
+Akash
+Prithivi
+Naag
+c
+Lightning conductors are made up of _________.
+Iron
+Aluminium
+Copper
+Steel
+c
+The I.C Chip used in a computer is made up of_______.
+Silicon
+Chromium
+Gold
+Lead
+a
+Which planet is nearest to the earth?
+Mercury
+Jupiter
+Venus
+Mars
+d
+Which among the following quantities is scalar?
+Velocity
+Acceleration
+Work
+Force
+a
+Nichrome wire is used in an electric heater because__________.
+It has high resistance
+It has high melting point
+It can resist a current upto approx 5 amperes
+For all of the above reasons
+d
